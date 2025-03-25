@@ -1,0 +1,24 @@
+//------------------------------
+// BAH-Functions To-Do list:
+//------------------------------
+  - Properly format the header files into headers with functions and cpp files.
+  - Allow for compiling. Currently just a set of files...
+  - Generate a small rootfile  for use in examples
+  - Create a directory with examples on usings functions 
+//------------------------------
+// Eventually To-Do list:
+//------------------------------
+  - In BAHDecays class, remove specific decay modes and implement a reading system 
+    for retrieving analysis info from text documents for more flexibility.
+    - Should increase readability and make examples more obvious.
+  //------------------------------
+  - In BAHCuts class, have presets mins and maxs in BAHCuts::getMinMaxBounds() and
+    add a reading system to allow for more cuts in a more felxible way.
+    - Should allow for reading and applying more variables as well.
+  //------------------------------
+  - Finish and integrate BAHDataSets to allow for implified retrieval of a ton
+    of data set properties including fn, nt, scaling, and any internal scalings for
+    specific decay chains.
+  //------------------------------
+
+

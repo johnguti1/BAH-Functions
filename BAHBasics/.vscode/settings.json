@@ -1,0 +1,20 @@
+{
+    "files.associations": {
+        "array": "cpp",
+        "string_view": "cpp",
+        "initializer_list": "cpp",
+        "utility": "cpp",
+        "iostream": "cpp",
+        "vector": "cpp",
+        "deque": "cpp",
+        "string": "cpp",
+        "ostream": "cpp",
+        "system_error": "cpp",
+        "unordered_map": "cpp",
+        "*.tcc": "cpp",
+        "new": "cpp",
+        "cmath": "cpp",
+        "fitExample1.C": "cpp",
+        "fitExample4.C": "cpp"
+    }
+}
